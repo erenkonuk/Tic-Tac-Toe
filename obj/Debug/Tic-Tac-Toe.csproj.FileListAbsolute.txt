@@ -1,0 +1,11 @@
+C:\Users\HUAWEI\OneDrive - std.izmirekonomi.edu.tr\Masaüstü\Tic-Tac-Toe_in_Csharp\Tic-Tac-Toe\bin\Debug\Tic-Tac-Toe.exe.config
+C:\Users\HUAWEI\OneDrive - std.izmirekonomi.edu.tr\Masaüstü\Tic-Tac-Toe_in_Csharp\Tic-Tac-Toe\bin\Debug\Tic-Tac-Toe.exe
+C:\Users\HUAWEI\OneDrive - std.izmirekonomi.edu.tr\Masaüstü\Tic-Tac-Toe_in_Csharp\Tic-Tac-Toe\bin\Debug\Tic-Tac-Toe.pdb
+C:\Users\HUAWEI\OneDrive - std.izmirekonomi.edu.tr\Masaüstü\Tic-Tac-Toe_in_Csharp\Tic-Tac-Toe\obj\Debug\Tic-Tac-Toe.csproj.AssemblyReference.cache
+C:\Users\HUAWEI\OneDrive - std.izmirekonomi.edu.tr\Masaüstü\Tic-Tac-Toe_in_Csharp\Tic-Tac-Toe\obj\Debug\Tic-Tac-Toe.csproj.SuggestedBindingRedirects.cache
+C:\Users\HUAWEI\OneDrive - std.izmirekonomi.edu.tr\Masaüstü\Tic-Tac-Toe_in_Csharp\Tic-Tac-Toe\obj\Debug\Tic_Tac_Toe.Form1.resources
+C:\Users\HUAWEI\OneDrive - std.izmirekonomi.edu.tr\Masaüstü\Tic-Tac-Toe_in_Csharp\Tic-Tac-Toe\obj\Debug\Tic_Tac_Toe.Properties.Resources.resources
+C:\Users\HUAWEI\OneDrive - std.izmirekonomi.edu.tr\Masaüstü\Tic-Tac-Toe_in_Csharp\Tic-Tac-Toe\obj\Debug\Tic-Tac-Toe.csproj.GenerateResource.cache
+C:\Users\HUAWEI\OneDrive - std.izmirekonomi.edu.tr\Masaüstü\Tic-Tac-Toe_in_Csharp\Tic-Tac-Toe\obj\Debug\Tic-Tac-Toe.csproj.CoreCompileInputs.cache
+C:\Users\HUAWEI\OneDrive - std.izmirekonomi.edu.tr\Masaüstü\Tic-Tac-Toe_in_Csharp\Tic-Tac-Toe\obj\Debug\Tic-Tac-Toe.exe
+C:\Users\HUAWEI\OneDrive - std.izmirekonomi.edu.tr\Masaüstü\Tic-Tac-Toe_in_Csharp\Tic-Tac-Toe\obj\Debug\Tic-Tac-Toe.pdb
